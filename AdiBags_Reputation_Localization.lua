@@ -38,7 +38,7 @@ elseif (locale == "frFR") then
   L["desc5"] = "Cocher pour inclure des tabards qui accordent de la rйputation"
   elseif (locale == "ruRU") then
   L["name"] = "Репутация"
-  L["desc"] = "Поместите предметы, влияющие на репутацию, в раздел \"Репутация\ "."
+  L["desc"] = "Поместите предметы, влияющие на репутацию, в раздел \"Репутация\""
   L["group_title"] = "Репутация"
   L["categories"] = "Включенные категории"
   L["name1"] = "Расходные материалы"
